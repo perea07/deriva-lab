@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
-    <Router>
+    <Router Router basename="/deriva-lab">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/ohm-law" element={<OhmLaw />} />
