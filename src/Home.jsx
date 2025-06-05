@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 function Home() {
   const cards = [
     { title: 'Ley de Ohm - Derivada por una constante', path: '/ohm-law' },
-    { title: 'Ley de Ohm dinámica – Derivada del voltaje como producto de una constante y una función lineal', path: '/newton-law' },
+    { title: 'Ley de Newtom – Derivada del voltaje como producto de una constante y una función lineal', path: '/newton-law' },
     { title: 'Mantenimiento de Autos - Derivada de una suma', path: '/car-maintenance' },
     { title: 'Derivada con Raíz', path: '/derivada-raiz' }
   ];
@@ -22,7 +22,7 @@ function Home() {
               border: '1px solid #ccc',
               borderRadius: '8px',
               padding: '20px',
-              width: '400px',
+              width: '35  0px',
               textAlign: 'center',
               background: '#62436d',
               boxShadow: '2px 2px 6px rgba(0,0,0,0.1)',
