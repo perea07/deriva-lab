@@ -22,7 +22,7 @@ function Home() {
               border: '1px solid #ccc',
               borderRadius: '8px',
               padding: '20px',
-              width: '35  0px',
+              width: '400px',
               textAlign: 'center',
               background: '#62436d',
               boxShadow: '2px 2px 6px rgba(0,0,0,0.1)',
